@@ -1,6 +1,8 @@
-- name: início
+- name: Início
   link: /
-- name: sobre
-  link: /sobre.html
-- name: documentos
+- name: Minicurso
+  link: /minicurso
+- name: Documentos
   link: /googledrive
+- name: Sobre
+  link: /sobre.html
