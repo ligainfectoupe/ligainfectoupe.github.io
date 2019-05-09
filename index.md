@@ -14,7 +14,6 @@ E tem mais! Teremos discussão de casos clínicos sobre os temas! IMPERDÍVEL! S
 
 ## Inscrição
 1. Primeiro, fazer o pagamento de R$ 25, 00 se você for participar só do simpósio, R$ 30,00 se for minicurso + processo seletivo, por transferência bancária ou depósito “na boca do caixa”, NÃO ACEITAMOS PAGAMENTOS FEITOS POR ENVELOPES. A conta é:
-
 ```
 Agência: 0963-6
 Conta: 73833-
@@ -23,7 +22,7 @@ Nome: Antônio Cassiano Diniz Netto
 BB
 ```
   > (Para alunos da FCM as incriçoes podem ser presenciais!!! É só procurar um dos ligantes e pedir informações)
-2. Preencher o <a class="botao" href="https://docs.google.com/forms/d/e/1FAIpQLSe2cmnIVgeufEd_hGlaiWT3FcU_t1Czu9BWm-3UTMujj-B9OA/viewform?usp=sf_link"><i class="fas fa-file-alt"></i>formulário de incrição
+2. Preencher o formulário de inscrição:<a class="botao" href="https://docs.google.com/forms/d/e/1FAIpQLSe2cmnIVgeufEd_hGlaiWT3FcU_t1Czu9BWm-3UTMujj-B9OA/viewform?usp=sf_link"><i class="fas fa-file-alt"></i>Formulário</a>
 3. Enviar para o e-mail da LPI, <a href="mailto:ligainfectoupe@gmail.com=feedback">ligainfectoupe@gmail.com</a>, a foto do comprovante de pagamento + print de que foi enviado o formulário de inscrição + nome completo + CPF + instituição de ensino.
 
 
@@ -34,7 +33,7 @@ BB
 ## Processo seletivo
 Todas as informações sobre o nosso processo seletivo estão contidas no edital abaixo. As incrições estão abertas até 6 de Junho de 2019.
 
-**Edital do processo seletivo:** <a class="botao" href="/assets/edital-selecao-2019.1.pdf"><i class="fas fa-link"></i>Edital de seleção</a>
+**Edital do processo seletivo:** <a class="botao" href="/assets/edital-selecao-2019.1.pdf"><i class="fas fa-link"></i>Edital</a>
 
 <div class="post-list">
   <ul>

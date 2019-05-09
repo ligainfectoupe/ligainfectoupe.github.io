@@ -5,12 +5,9 @@
   padding-right: 20px;
   padding-left: 20px;
 }
-
 body {
   margin: 0 0 0 0;
 }
-
-
 
 /* Header */
 #logo {
@@ -20,7 +17,6 @@ body {
   padding-top: 20px;
   display: block;
 }
-
 header {
   border-top: 5px solid #063196;
 }
@@ -45,12 +41,9 @@ nav {
     background-color: #154ba3;
   }
 }
-
 .fa, .fab, .fas:not(.fa-heart) {
   padding-right: 5px;
 }
-
-
 .current {
   background-color: #154ba3;
   color: white;
@@ -62,7 +55,6 @@ nav {
   width: 100%;
   margin-bottom: 30px;
 }
-
 .featured-image {
   object-fit: cover;
   max-width: 320px;
@@ -71,7 +63,6 @@ nav {
   margin: 5px auto 5px;
   border-radius: 1rem;
 }
-
 .post-info, .post-page-info {
   font-size: 16px;
   color: gray;
@@ -79,7 +70,6 @@ nav {
   width: 100%;
   max-width: 320px;
 }
-
 h1 {
   font-size: 36px;
 }
@@ -99,7 +89,6 @@ h2, h3, h4, h5, h6 {
   font-weight: 400;
   text-align: left;
 }
-
 p, a, li, figcaption {
   font-family: 'Open Sans', sans-serif;
   font-size: 18px;
@@ -109,7 +98,6 @@ p, a, li, figcaption {
   -moz-osx-font-smoothing: grayscale;
   line-height: 1.6;
 }
-
 a{
   color: #2a7ae2;
   text-decoration: none;
@@ -132,6 +120,7 @@ a{
   padding: 4px 6px 4px 6px;
   border-radius: 0.5rem;
   color: white;
+  display: inline-block;
 }
 .botao:hover {
   background-color: #154ba3;
@@ -187,31 +176,26 @@ a{
     color: black;
   }
 }
-
 pre {
   padding: 8px 12px;
   overflow-x: auto;
 }
-
 pre > code {
     border: 0;
     padding-right: 0;
     padding-left: 0;
 }
-
 pre, code {
   font-size: 15px;
   border: 1px solid #e8e8e8;
   border-radius: 3px;
   background-color: #eef;
 }
-
 code {
   padding: 1px 5px;
   padding-right: 5px;
   padding-left: 5px;
 }
-
 kbd {
   background-color: #eee;
   border-radius: 3px;
@@ -225,16 +209,14 @@ kbd {
   padding: 2px 4px;
   white-space: nowrap;
 }
-
 img {
   max-width: 100%;
   display: block;
   margin-left: auto;
   margin-right: auto;
 }
-
 #banner {
-  border-radius: 3rem;
+  border-radius: 2rem;
 }
 
 figcaption {
