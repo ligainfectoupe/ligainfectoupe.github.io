@@ -21,7 +21,7 @@ layout: default
 
 <li>Preencher o <a href="https://docs.google.com/forms/d/e/1FAIpQLSe2cmnIVgeufEd_hGlaiWT3FcU_t1Czu9BWm-3UTMujj-B9OA/viewform?usp=sf_link">formulário de incrição</a></li>
 
-<li>Enviar para o e-mail da LPI (<a href="<a href="mailto:ligainfectoupe@gmail.com=feedback">ligainfectoupe@gmail.com</a>) a foto do comprovante de pagamento + print de que foi enviado o formulário de inscrição + nome completo + CPF + instituição de ensino.</li>
+<li>Enviar para o e-mail da LPI (<a href="mailto:ligainfectoupe@gmail.com=feedback">ligainfectoupe@gmail.com</a>) a foto do comprovante de pagamento + print de que foi enviado o formulário de inscrição + nome completo + CPF + instituição de ensino.</li>
 </ol>
 
 
