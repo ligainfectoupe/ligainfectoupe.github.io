@@ -6,29 +6,30 @@ layout: default
 
 <img src="/assets/arte-divulgacao2.jpeg" alt="I minicurso da LPI">
 
-<p>Sabe aquela dúvida sobre os possíveis achados num hemograma num contexto de infecções? Paciente com meningite, o que posso encontrar no estudo do líquor dessa pessoa? Essas e muitas outras questões sobre hemograma, sumário de urina, radiografia e exame do LCR no contexto das doenças infecciosas serão abordadas no Minicurso da LPI! Tu vai perder é? E tem mais! Teremos discussão de casos clínicos sobre os temas! IMPERDÍVEL! Sem falar que a participação no minicurso dá um bônus de 10% na prova do processo seletivo da LPI... E como faço para me inscrever??</p>
+Sabe aquela dúvida sobre os possíveis achados num hemograma num contexto de infecções? Paciente com meningite, o que posso encontrar no estudo do líquor dessa pessoa? Essas e muitas outras questões sobre hemograma, sumário de urina, radiografia e exame do LCR no contexto das doenças infecciosas serão abordadas no Minicurso da LPI! Tu vai perder é?
 
-<ol>
-  <li>Primeiro, fazer o pagamento de R$ 25, 00 se você for participar só do simpósio, R$ 30,00 se for minicurso + processo seletivo, por transferência bancária ou depósito “na boca do caixa”, NÃO ACEITAMOS PAGAMENTOS FEITOS POR ENVELOPES. A conta é: <br>
-  Agência 0963-6 <br>
-  Conta 73833-6  <br>
-  Cpf 10974018473 <br>
-  Antônio Cassiano Diniz Netto <br>
+E tem mais! Teremos discussão de casos clínicos sobre os temas! IMPERDÍVEL! Sem falar que a participação no minicurso dá um bônus de 10% na prova do processo seletivo da LPI... E como faço para me inscrever??
+
+## Inscrição
+1. Primeiro, fazer o pagamento de R$ 25, 00 se você for participar só do simpósio, R$ 30,00 se for minicurso + processo seletivo, por transferência bancária ou depósito “na boca do caixa”, NÃO ACEITAMOS PAGAMENTOS FEITOS POR ENVELOPES. A conta é: <br>
+  Agência: 0963-6 <br>
+  Conta: 73833-6  <br>
+  CPF: 109.740.184-73 <br>
+  Nome: Antônio Cassiano Diniz Netto <br>
   BB <br>
-  <br>
-  (Para alunos da FCM as incriçoes podem ser presenciais!!! É só procurar um dos ligantes e pedir informações)
-</li>
-
-<li>Preencher o <a href="https://docs.google.com/forms/d/e/1FAIpQLSe2cmnIVgeufEd_hGlaiWT3FcU_t1Czu9BWm-3UTMujj-B9OA/viewform?usp=sf_link">formulário de incrição</a></li>
-
-<li>Enviar para o e-mail da LPI (<a href="mailto:ligainfectoupe@gmail.com=feedback">ligainfectoupe@gmail.com</a>) a foto do comprovante de pagamento + print de que foi enviado o formulário de inscrição + nome completo + CPF + instituição de ensino.</li>
-</ol>
+  > (Para alunos da FCM as incriçoes podem ser presenciais!!! É só procurar um dos ligantes e pedir informações)
+2. Preencher o <a href="https://docs.google.com/forms/d/e/1FAIpQLSe2cmnIVgeufEd_hGlaiWT3FcU_t1Czu9BWm-3UTMujj-B9OA/viewform?usp=sf_link">formulário de incrição
+3. Enviar para o e-mail da LPI (<a href="mailto:ligainfectoupe@gmail.com=feedback">ligainfectoupe@gmail.com</a>) a foto do comprovante de pagamento + print de que foi enviado o formulário de inscrição + nome completo + CPF + instituição de ensino.
 
 
-<p>VAGAS LIMITADAS!! Garanta já a sua!
-OBS: quem for participar apenas do processo seletivo, os passos são os mesmos, mas o valor da inscrição somente no processo seletivo é de R$ 15,00</p>
+**As vagas são limitadas!!** Garanta já a sua!
 
-<p>Edital do processo seletivo: <a href="/assets/edital-selecao-2019.1.pdf">link aqui</a></p>
+**OBS:** quem for participar apenas do processo seletivo, os passos são os mesmos, mas o valor da inscrição somente no processo seletivo é de R$ 15,00
+
+## Processo seletivo
+Todas as informações sobre o nosso processo seletivo estão contidas no edital abaixo. As incrições estão abertas até 6 de Junho de 2019.
+
+**Edital do processo seletivo:** <a href="/assets/edital-selecao-2019.1.pdf">link aqui</a>
 
 <div class="post-list">
   <ul>
