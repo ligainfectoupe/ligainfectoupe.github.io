@@ -30,26 +30,39 @@ header {
 
 /* Barra de navegaçao */
 nav {
-  line-height: 30px;
+  line-height: 35px;
   padding-top: 20px;
   margin: 0 auto;
-  max-width: 600px;
-  width: 100%;
   text-align: center;
+  width: 100%;
   a {
-  text-decoration: none;
-  padding: 3px;
-  font-size: 16px;
-  color: black;
-  display: inline-block;
+    text-decoration: none;
+    font-size: 16px;
+    background-color: #828282;
+    padding: 4px 6px 4px 6px;
+    border-radius: 0.5rem;
+    color: white;
+    display: inline-block;
   }
   a:hover {
-    color: black;
+    background-color: #154ba3;
   }
 }
 
+.fa {
+  padding-right: 5px;
+}
+#face, #git {
+  font-size: 20px;
+}
+#face {
+  padding-left: 3px;
+  padding-right: 3px;
+}
+
 .current {
-  color: #063196;
+  background-color: #154ba3;
+  color: white;
 }
 
 /* conteúdo principal */
