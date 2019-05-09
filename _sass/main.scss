@@ -22,7 +22,6 @@ body {
 }
 
 header {
-  border-bottom: 1px solid #e8e8e8;
   border-top: 5px solid #063196;
 }
 
@@ -47,16 +46,10 @@ nav {
   }
 }
 
-.fa {
+.fa, .fab, .fas:not(.fa-heart) {
   padding-right: 5px;
 }
-#face, #git {
-  font-size: 20px;
-}
-#face {
-  padding-left: 3px;
-  padding-right: 3px;
-}
+
 
 .current {
   background-color: #154ba3;
@@ -96,11 +89,15 @@ h2 {
 h3 {
   font-size: 26px;
 }
-
-h1, h2, h3, h4, h5, h6 {
+h1  {
   font-family: Arial, Helvetica, sans-serif;
   font-weight: 400;
   text-align: center;
+}
+h2, h3, h4, h5, h6 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 400;
+  text-align: left;
 }
 
 p, a, li, figcaption {
@@ -115,6 +112,7 @@ p, a, li, figcaption {
 
 a{
   color: #2a7ae2;
+  text-decoration: none;
 }
 
 .abertura {
@@ -126,6 +124,17 @@ a{
   a:hover {
     color: black;
   }
+}
+.botao {
+  text-decoration: none;
+  font-size: 16px;
+  background-color: #828282;
+  padding: 4px 6px 4px 6px;
+  border-radius: 0.5rem;
+  color: white;
+}
+.botao:hover {
+  background-color: #154ba3;
 }
 
 .post-list {
@@ -219,11 +228,13 @@ kbd {
 
 img {
   max-width: 100%;
-  width: 400px;
-
   display: block;
   margin-left: auto;
   margin-right: auto;
+}
+
+#banner {
+  border-radius: 3rem;
 }
 
 figcaption {
@@ -238,6 +249,10 @@ figure {
 }
 
 /* footer */
+#fm {
+  font-size: 16px;
+
+}
 .footer {
   border-top: 1px solid #e8e8e8;
   padding: 30px;
