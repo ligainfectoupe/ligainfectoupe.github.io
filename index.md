@@ -13,13 +13,13 @@ Sabe aquela dúvida sobre os possíveis achados num hemograma num contexto de in
 E tem mais! Teremos discussão de casos clínicos sobre os temas! IMPERDÍVEL! Sem falar que a participação no minicurso dá um bônus de 10% na prova do processo seletivo da LPI... E como faço para me inscrever??
 
 ## Inscrição
-1. Primeiro, fazer o pagamento de R$ 25, 00 se você for participar só do simpósio, R$ 30,00 se for minicurso + processo seletivo, por transferência bancária ou depósito “na boca do caixa”, NÃO ACEITAMOS PAGAMENTOS FEITOS POR ENVELOPES. A conta é:
+1. Primeiro, fazer o pagamento de R$ 25, 00 se você for participar só do minicurso, R$ 30,00 se for minicurso + processo seletivo, por transferência bancária ou depósito “na boca do caixa”, NÃO ACEITAMOS PAGAMENTOS FEITOS POR ENVELOPES. A conta é:
 ```
 Agência: 0963-6
-Conta: 73833-
+Conta: 73833-6
 CPF: 109.740.184-73
 Nome: Antônio Cassiano Diniz Netto
-BB
+Banco do Brasil
 ```
   > (Para alunos da FCM as incriçoes podem ser presenciais!!! É só procurar um dos ligantes e pedir informações)
 2. Preencher o formulário de inscrição:<a class="botao" href="https://docs.google.com/forms/d/e/1FAIpQLSe2cmnIVgeufEd_hGlaiWT3FcU_t1Czu9BWm-3UTMujj-B9OA/viewform?usp=sf_link"><i class="fas fa-file-alt"></i>Formulário</a>
