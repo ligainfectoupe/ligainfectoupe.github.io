@@ -4,3 +4,6 @@
 - name: Sobre
   link: /sobre
   icon: portrait
+- name: Área Restrita
+  link: https://restrita-lpiupe.blogspot.com/
+  icon: address-card
