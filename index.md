@@ -1,6 +1,7 @@
 ---
 title: LPI
 layout: default
+image: /logo.png
 ---
 # Processo seletivo da LPI 2019.1
 
