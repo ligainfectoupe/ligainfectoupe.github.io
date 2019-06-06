@@ -18,9 +18,11 @@ email: ligainfectoupe@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Site da liga pernambucana de infectologia
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://ligainfectoupe.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ligainfectoupe
 github_username:  ligainfectoupe
+logo: /logo.png
+lang: pt_BR
 
 # Build settings
 markdown: kramdown
